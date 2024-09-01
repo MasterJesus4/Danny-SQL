@@ -8,7 +8,7 @@ The Nashville housing data contained inconsistencies,missing values,and errors, 
 
 ## Data Source
 The Nashville housing data is a comprehensive dataset containing information on residential properties in Nashville, Tennessee. The data source includes a wide range of variable, such as :
-- Propert Characteristics: address, zip code, property type, number of bedrooms,etc
+- Property Characteristics: address, zip code, property type, number of bedrooms,etc
 - Sales information : Sales price, sales date,etc
 
   ## Tools
