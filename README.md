@@ -14,7 +14,7 @@ The Nashville housing data is a comprehensive dataset containing information on 
   ## Tools
   To ensure the quality and accuracy of the Nashville housing data, i performed thorough data cleaning using SQL.  The steps ibvolved:
   - Data inspection
-  - Data standardixation
+  - Data standardization
   - Data validation
   - Data Transformation
   - Data duplication
