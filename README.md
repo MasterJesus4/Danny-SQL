@@ -2,7 +2,7 @@
 
 ## Project Overview
 ### Objective
-The primary objective of this project  was to clean and preprocess the Nshville housing data to make it more usable and informative for company performance analysis
+The primary objective of this project  was to clean and preprocess the Nshville housing data to make it more useable and informative for company performance analysis
 ### Background
 The Nashville housing data contained inconsistencies,missing values,and errors, making it challenging to extract valuable insights.
 
